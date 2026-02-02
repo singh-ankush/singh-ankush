@@ -14,9 +14,9 @@ I’m a **Software Development Engineer in Test (SDET)** with **3+ years** of ex
 
 #### 🏆 Highlights & Impact
 - 🛠️ Proven experience in initiating automation from scratch using **Playwright**, **Selenium**, **Appium** and **Rest Assured** across:
-> Construction Tech
-> E-commerce
-> Ad-Tech
+> Construction Tech,
+> E-commerce,
+> Ad-Tech,
 > ERP Systems
 - ⭐️ Created **open-source** AI tools for streamlining automation and database management
 - 🛡️ Integrated suites with CI/CD pipelines using **Github Actions** and **Azure Devops**
